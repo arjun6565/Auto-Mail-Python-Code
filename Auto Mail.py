@@ -5,11 +5,11 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Sender's email credentials
-from_email = "arjunjabong@gmail.com"
-password = "bspokbixuvccnfof"  # Your Gmail app password
+from_email = "abc@gmail.com"
+password = "abcdefghijk"  # Your Gmail app password
 
 # Recipient's email ID
-to_email = "arjun@arabyads.com"
+to_email = "abc@arabyads.com"
 
 # Email details
 subject = "Auto MAil Daily Report with Excel Attachment"
