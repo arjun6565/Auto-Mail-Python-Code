@@ -9,7 +9,7 @@ from_email = "abc@gmail.com"
 password = "abcdefghijk"  # Your Gmail app password
 
 # Recipient's email ID
-to_email = "abc@arabyads.com"
+to_email = "abc@gmail.com"
 
 # Email details
 subject = "Auto MAil Daily Report with Excel Attachment"
